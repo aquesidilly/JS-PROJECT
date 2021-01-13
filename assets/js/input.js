@@ -12,7 +12,7 @@ window.addEventListener('keydown', e => {
             break
         case 'ArrowLeft':
             if (lastUserInput.x !== 0) break
-            UserInput = { x: -1, y: 0 }
+            userInput = { x: -1, y: 0 }
             break
         case 'ArrowRight':
             if (lastUserInput.x !== 0) break
