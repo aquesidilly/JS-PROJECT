@@ -5,19 +5,18 @@
 
 # Live project
 
-   
+  The live SnakeGame can be found [View here](https://aquesidilly.github.io/JS-PROJECT)
 
 
-# Screenshots
+# Screenshot
 
-     Screenshot 2021-01-13 at 21.17.01.png
+  ![](images/my%20screenshot.png) 
 
 
 # Table of contents
   * User experience
        - User Stories
           * Snake Game
-          * Wire frames
        - Design
           * Colour Scheme
           * Typography
@@ -25,7 +24,7 @@
        - Features
           * Current Features
           * Future Features
-       - Technologies used
+       - Technologies Used
           * Languages Used.
           * Frameworks Libraries and Programs
        - Testing
@@ -124,7 +123,7 @@ Table of contents generated with markdown-toc
 # How to play the game
    * Download the game
    * Run it
-   * Start playing with the arrows keys. 
+   * Start playing with the arrow keys. 
    * If you lose, it will restart by it's self so you can continue playing the game 
 
 # Content
